@@ -29,3 +29,12 @@ jobs:
 
     - name: Deploy to GitHub Pages
       run: npx hexo deploy
+
+    - name: Trigger Playwright Workflow
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
+      run: |
+        curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/cr432/Playwrightwebsite/dispatches \
+          -d '{"event_type": "trigger-playwright-tests"}'

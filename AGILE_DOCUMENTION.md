@@ -124,3 +124,9 @@
     - A markdown template is available for creating new articles.
     - The template includes fields for title, author, category, and tags.
   - **Tests**: Verify that new articles created with the template are formatted correctly.
+
+- **Story 6.3**: As a developer, I want to incorporate the Fluid theme into my Hexo setup so that the website has an updated look and feel.
+  - **Acceptance Criteria**:
+    - The Fluid theme is successfully installed and configured in Hexo.
+    - The website displays the new theme features, including a search bar for easier navigation.
+  - **Tests**: Verify that the Fluid theme renders correctly and functions as expected across all pages.

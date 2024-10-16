@@ -4,8 +4,6 @@ date: 2024-10-16 13:15:20
 tags:
 ---
 
-# Version Control Systems: Git
-
 ## What is Git?
 Git is a distributed version control system that allows multiple developers to collaborate on the same codebase efficiently. It tracks changes to files, enabling teams to work simultaneously while maintaining the integrity of the code.
 

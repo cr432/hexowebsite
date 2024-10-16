@@ -4,8 +4,6 @@ date: 2024-10-16 13:15:47
 tags:
 ---
 
-# CI/CD Pipelines: An Overview
-
 ## What is CI/CD?
 CI/CD stands for **Continuous Integration** and **Continuous Deployment/Delivery**. It automates the process of integrating code changes, testing, and deploying applications to production.
 

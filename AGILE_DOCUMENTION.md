@@ -26,12 +26,6 @@
     - The menu is responsive and works on mobile and desktop.
   - **Tests**: Verify that the menu links navigate to the correct sections.
 
-- **Story 1.3**: As a user, I want a footer on the website so that I can find additional links and information.
-  - **Acceptance Criteria**:
-    - The footer contains links to privacy policy, terms of service, and contact information.
-    - The footer is present on all pages.
-  - **Tests**: Verify that the footer links are functional and the footer is consistent across pages.
-
 ### Epic 2: Development Environment & Tools
 **Description**: Guide users through setting up their development environment and tools.
 
@@ -119,13 +113,7 @@
     - The branding is consistent across all pages.
   - **Tests**: Verify that the website theme is applied correctly and consistently.
 
-- **Story 6.2**: As a developer, I want to create custom markdown templates so that content authors can add articles easily.
-  - **Acceptance Criteria**:
-    - A markdown template is available for creating new articles.
-    - The template includes fields for title, author, category, and tags.
-  - **Tests**: Verify that new articles created with the template are formatted correctly.
-
-- **Story 6.3**: As a developer, I want to incorporate the Fluid theme into my Hexo setup so that the website has an updated look and feel.
+- **Story 6.2**: As a developer, I want to incorporate the Fluid theme into my Hexo setup so that the website has an updated look and feel.
   - **Acceptance Criteria**:
     - The Fluid theme is successfully installed and configured in Hexo.
     - The website displays the new theme features, including a search bar for easier navigation.

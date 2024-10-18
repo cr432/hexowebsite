@@ -1,7 +1,7 @@
 ---
 title: Version Control
 date: 2024-10-16 13:15:20
-tags:
+tags: Software Architecture & Best Practices
 ---
 
 ## What is Git?

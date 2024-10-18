@@ -1,7 +1,7 @@
 ---
 title: Kernel
 date: 2024-10-16 13:13:03
-tags:
+tags: Development Environment & Tools
 ---
 
 If you're new to development, understanding the kernel is crucial. It’s the core component of your operating system, managing hardware and software resources. Let’s break it down simply.

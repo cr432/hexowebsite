@@ -1,7 +1,7 @@
 ---
 title: Docker-Kubernetes
 date: 2024-10-18 07:49:42
-tags:
+tags: Containerization & Orchestration
 ---
 # Docker & Kubernetes:
 

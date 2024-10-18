@@ -1,7 +1,7 @@
 ---
 title: WSL2
 date: 2024-10-16 13:08:32
-tags:
+tags: Development Environment & Tools
 ---
 
 ## What is WSL2?

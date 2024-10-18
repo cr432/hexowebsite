@@ -1,7 +1,7 @@
 ---
 title: Virtualization
 date: 2024-10-16 13:13:17
-tags:
+tags: Development Environment & Tools
 ---
 
 Virtualization is a technology that allows you to run multiple operating systems on a single physical machine by creating virtual instances. This enables better resource utilization, isolation, testing environments, and development flexibility. Below is a comprehensive overview of virtualization, including types, popular tools like WSL 2 and VirtualBox, and everything you need to know about these technologies.

@@ -1,7 +1,7 @@
 ---
 title: Twelve-Factor App
 date: 2024-10-16 13:14:38
-tags:
+tags: Software Architecture & Best Practices
 ---
 
 The Twelve-Factor App methodology provides a set of principles for building modern web apps (software-as-a-service) that are scalable, maintainable, and easy to manage across different development and production environments. These principles were created based on extensive experience with app deployment and operation, particularly from teams working on the Heroku platform.

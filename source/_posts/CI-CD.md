@@ -1,7 +1,7 @@
 ---
 title: CI/CD
 date: 2024-10-16 13:15:47
-tags:
+tags: Software Architecture & Best Practices
 ---
 
 ## What is CI/CD?

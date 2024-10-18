@@ -1,7 +1,7 @@
 ---
 title: Monitoring & Logging
 date: 2024-10-16 13:41:26
-tags:
+tags: Monitoring & Maintenance
 ---
 
 ## What is Monitoring and Logging?

@@ -1,7 +1,7 @@
 ---
 title: Containerization
 date: 2024-10-17 12:41:00
-tags:
+tags: Containerization & Orchestration
 ---
 
 Containerization is a method used in software development to package applications along with their dependencies, ensuring they run consistently across different computing environments. It provides an isolated environment (a "container") where an application and its dependencies (libraries, configuration files, binaries) are bundled together. This makes it easier to move software from one computing environment to another without worrying about compatibility issues.

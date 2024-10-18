@@ -1,4 +1,4 @@
-# Student Guide to Software Development - Agile Documentation
+# Student Guide to Software Development - Agile Documentation 
 
 ## Vision
 
